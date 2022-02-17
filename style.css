@@ -1,0 +1,17 @@
+.top-heading{
+    font-weight: 700;
+}
+.total-section{
+    background-color: #FFF0F5;
+}
+.calculate-btn{
+    font-size: 25px;
+    font-weight: 700;
+    color: white;
+    margin-bottom: 4px;
+}
+.save-btn{
+    font-size: 25px;
+    font-weight: 700;
+    color: white;
+}
