@@ -15,7 +15,7 @@ function getIncomeInput(inputId) {
     return incomeAmount;
   }
 }
-
+// expenses section 
 function getExpensesInput(itemId) {
   const expensesInput = document.getElementById(itemId);
   const expensesAmountText = expensesInput.value;
